@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "Bookshelf\UnitTest\UnitTest.csproj", "{1D6B8FED-C501-4568-8389-6D669E95DC25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnitTest", "UnitTest\UnitTest.csproj", "{1D6B8FED-C501-4568-8389-6D669E95DC25}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiLayer", "Bookshelf\WebApiLayer\WebApiLayer.csproj", "{9BAE55C7-3F91-4A64-B164-D5E0713631E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApiLayer", "WebApiLayer\WebApiLayer.csproj", "{9BAE55C7-3F91-4A64-B164-D5E0713631E4}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DAL", "Bookshelf\DAL\DAL.csproj", "{A72F3542-3AE7-4021-98B3-A54FDD71C2C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{A72F3542-3AE7-4021-98B3-A54FDD71C2C9}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BLL", "Bookshelf\BLL\BLL.csproj", "{B9C7282E-D028-407E-9E55-01E64425C350}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{B9C7282E-D028-407E-9E55-01E64425C350}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
